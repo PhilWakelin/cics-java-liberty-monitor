@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.web.container"/>
+	<classpathentry kind="con" path="org.eclipse.jst.j2ee.internal.module.container"/>
+	<classpathentry kind="con" path="com.ibm.cics.explorer.sdk.web.LIBERTY_LIBRARIES/L./V.54/CL.53"/>
+	<classpathentry kind="con" path="com.ibm.etools.jzos.JZOS_CONTAINER/8.0"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="WebContent/WEB-INF/classes"/>
+</classpath>
